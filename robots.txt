@@ -1,0 +1,4 @@
+# robots.txt for www.wmoorchestra.com
+
+User-agent: *
+Allow: /
